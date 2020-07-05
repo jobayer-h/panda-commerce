@@ -20,3 +20,24 @@
 .price{
     color: #FF136F;
 }
+
+/* catagoris */
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: #FF136F;
+}
+.cat2{
+    background-color: aquamarine;
+}
+.cat3{
+    background-color: blue;
+}
+.catagoris h1{
+    color: white;
+}
+.catagoris img{
+    width: 100px;
+}
