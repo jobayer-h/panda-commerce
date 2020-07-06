@@ -51,3 +51,14 @@
 .card:hover{
     box-shadow: 10px 10px 30px lightgray;
 }
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#sub{
+    height: 300px;
+    margin-bottom: 0;
+}
+footer{
+    text-align: center;
+}
