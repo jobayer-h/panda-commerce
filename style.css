@@ -41,3 +41,13 @@
 .catagoris img{
     width: 100px;
 }
+
+/* shoes */
+.card{
+    border: none;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 15px;
+}
+.card:hover{
+    box-shadow: 10px 10px 30px lightgray;
+}
